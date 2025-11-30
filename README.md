@@ -1,2 +1,2 @@
-# Tic-Tac-Toe
-My first respository
+# 2025
+My first Python projects
