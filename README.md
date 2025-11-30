@@ -1,2 +1,2 @@
-# 2025
-My first Python projects
+# Tic-Tac-Toe
+Consolidating my list slicing skills
